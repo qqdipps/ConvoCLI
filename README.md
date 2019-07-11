@@ -6,3 +6,5 @@ Designed to be used with WeMeApi.
 $` node -i -e "$(< Convo.js)"`     
 >` c = new Convo`      
 >` c.startConvo();`    
+
+![example cli screenshot](images/exConvo.png)
