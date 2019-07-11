@@ -1,2 +1,3 @@
 # ConvoCLI
-Real time conversations in the command line
+Real time conversations via websockets in the command line
+Designed to be used with WeMeApi.
